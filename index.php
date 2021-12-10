@@ -32,7 +32,7 @@
 			<h1>Rocket internet</h1>
 			<div class="vertical-line"></div>
 			<p>
-				LOREM IPSUM DOLOR SIT AMET NULLAM CONSEQUAT 
+				ASMA HAOUA GI
 				<br />
 				INTERDUM VIVAMUS DONCE SED LIBERO.
 			</p>
